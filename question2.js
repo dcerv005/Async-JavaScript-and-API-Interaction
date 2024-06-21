@@ -1,4 +1,4 @@
-let count = 5;
+let count = 30;
 const timer = setInterval(function() {
   count--;
   console.log(count);
@@ -20,9 +20,9 @@ function notification () {
 
 
 setTimeout(notification, 3000);
-function alert() {
+function message() {
     alert('10 seconds have passed!');
   }
   
-setInterval(alert, 10000);
+setInterval(message, 10000);
 
