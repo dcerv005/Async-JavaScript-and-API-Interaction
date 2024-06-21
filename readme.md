@@ -1,0 +1,1 @@
+Async JavaScript and API Interaction Assignment. Here we used different type of functions like setInterval, and setTimeout to change portions of the HTML documnet. Also, we practice using an API to call data from a website.
